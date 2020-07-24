@@ -1,0 +1,42 @@
+
+
+section {
+  display: flex;
+  
+}
+div {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  border: 1px solid black;
+  height: 50px;
+  width: 50px;
+}
+.header{
+    border: 1px solid transparent;
+    /*line-height: 50px;*/
+    
+}
+
+input{
+    display:flex;
+    text-align: center;
+    text-transform: uppercase;
+    align-items: center;
+  border: none;
+  padding: 0;
+  height: 50px;
+  width: 50px;
+
+}
+.none{
+    background-color: black;
+}
+
+ol{
+    font-weight: bold;
+}
+
+span{
+    font-weight: normal;
+}
